@@ -1,5 +1,7 @@
 package Atelier1;
 
+import POO.test;
+
 public class Exercices {
     public static void main(String[] args) {
         // Ex1();
@@ -15,7 +17,8 @@ public class Exercices {
         // Ex11();
         // Ex12();
         // Ex13();
-        Ex13_1();
+        // Ex13_1();
+    
 
     }
 
